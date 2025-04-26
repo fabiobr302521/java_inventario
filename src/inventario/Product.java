@@ -6,6 +6,7 @@ public class Product {
 	private int qtdInStock; // quantity in stock
 	private double price; // price of the product
 	private boolean active = true; // status of the product
+	
 	// construct method
 	public Product() {}
 
